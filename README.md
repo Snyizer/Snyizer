@@ -30,8 +30,3 @@ Python-разработчик из Санкт-Петербурга.
 - **СПбГУТ им. проф. М. А. Бонч-Бруевича** — Программная инженерия (2026)
 - **СПб колледж телекоммуникаций им. Э.Т. Кренкеля** — Программирование в компьютерных системах (2019)
 - Курсы: Яндекс.Алгоритмы (4.0, 5.0), SQL Academy, Основы сетей (Eltex), Git и GitHub, IT Essentials (Cisco)
-
-
-- Telegram: [@Snyizer](https://t.me/Snyizer)
-- Email: [vvvitia201@gmail.com](mailto:vvvitia201@gmail.com)
-- GitHub: [github.com/Snyizer](https://github.com/Snyizer)
